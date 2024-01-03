@@ -1,5 +1,4 @@
 #include "binary_trees.h"
-
 /**
  * enqueue_item_3 - Adds an item to a queue.
  * @queue_h: A pointer to the queue's head.
@@ -7,6 +6,7 @@
  * @n: A pointer to the queue's size value.
  * @item: The item to add to the queue.
  */
+
 void enqueue_item_3(heap_t **queue_h, heap_t **queue_t,
 	int *n, void *item)
 {
