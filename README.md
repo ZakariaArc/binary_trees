@@ -29,7 +29,7 @@ Upon completion of this project, you should be able to:
 
 This project utilizes the following data structures:
 
-- **Basic Binary Tree**
+**Basic Binary Tree**
 
 ```c
 /**
